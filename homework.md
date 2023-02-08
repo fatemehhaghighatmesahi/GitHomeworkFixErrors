@@ -4,38 +4,37 @@
 
 What is 2 + 2?
 
-5
+4
 
 ## Question 2
 
 What is the opposite of Black?
 
-Purple
+white
 
 ## Question 3
 
 What is the  2 * 3 * 6 * 1 * 10 * 34?
-
-1322
+12240
 
 ## Question 4 
 
 What does HTML stand for?
 
-Hyper Tall Massive Language
+Hypertext Markup Language
 
 ## Question 5
 
 What is CSS useful for?
 
-Making a website go faster
+to style and layout web pages
 
 ## Question 6
 
 Using CSS, how would I select every `<h1>` tag on the page?
 
 ```css
-#h1 {
+h1 {
 
 }
 ```
@@ -44,37 +43,37 @@ Using CSS, how would I select every `<h1>` tag on the page?
 
 What is JavaScript?
 
-A programming language used on the internet
+JavaScript is the Programming Language for the Web. JavaScript can update and change both HTML and CSS. JavaScript can calculate, manipulate and validate 
 
 ## Question 8
 
 What three problem does Git & Github solve?
 
 When people want to show off code to each other they can put it on Github
+whenthey dont want to lose file before changes
+when some peaple whant to work on one file at the same time 
 
 ## Question 9
 
 What happens when you `fork` a repository?
 
-You delete it
+You will have your owne versen of that file
 
 ## Question 10 
 
 What happens when you clone a repostory?
-
-It send it to a friend
+downloded it on your pc
 
 ## Question 11
 
 What is a Pull Request?
+sending your versen 
 
-When you send a file over the internet
-
-## Question 12
+## Question
 
 What is the Git History log?
 
-It lets you see into the future
+It lets you see into the what changes you made
 
 ## Question 13
 
@@ -82,7 +81,7 @@ What does it meant to "push" changes to Github?
 
 You send the changes of your local repository to Github
 
-## Question 14
+## Question 1
 
 What is Github?
 
